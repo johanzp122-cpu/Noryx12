@@ -1,7 +1,0 @@
-{
-"microfono": 1,
-"energy_threshold": 1200,
-"pause_threshold": 1.0,
-"pherase_threshold": 0.15,
-"non_speaking_duration": 0.5
-}
